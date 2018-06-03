@@ -12,7 +12,7 @@ Create Perspective Transformed Image in Sketch. Just like Smart Objects for Phot
 
 Magic Mirror is a Sketch Plugin originally developed to add a critical feature thats missing in Sketch 3 - Perspective Transform Tool for Images.
 
-Version 2 has a number of improvements over its precedance:
+Version 2 has a number of improvements over its precedents:
 
 - 5x better performance
 - 2-6x image quality improvement
