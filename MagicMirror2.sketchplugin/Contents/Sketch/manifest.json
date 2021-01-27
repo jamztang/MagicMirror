@@ -16,50 +16,50 @@
 			"identifier" : "magic mirror",
 			"shortcut" : "control shift m",
 			"script" : "main.js",
-			"handler" : "configureSelection",
+			"handler" : "configureSelection"
 	    },
 	    {
 			"name" : "Rotate Selection",
 			"identifier" : "rotate selection",
 			"shortcut" : "control shift command r",
 			"script" : "main.js",
-			"handler" : "rotateSelection",
+			"handler" : "rotateSelection"
 	    },
 	    {
 			"name" : "Flip Selection",
 			"identifier" : "flip selection",
 			"shortcut" : "control shift command f",
 			"script" : "main.js",
-			"handler" : "flipSelection",
+			"handler" : "flipSelection"
 	    },
 	    {
 			"name" : "Jump to Artboard",
 			"identifier" : "jump selection",
 			"shortcut" : "control shift command j",
 			"script" : "main.js",
-			"handler" : "jumpSelection",
+			"handler" : "jumpSelection"
 	    },
 	    {
 			"name" : "Refresh Page/Selection",
 			"identifier" : "refresh",
 			"shortcut" : "control shift command e",
 			"script" : "main.js",
-			"handler" : "refresh",
+			"handler" : "refresh"
 	    },
 	    {
 			"name" : "About Pro Version...",
 			"identifier" : "pro version",
 			"shortcut" : "",
 			"script" : "main.js",
-			"handler" : "licenseInfo",
+			"handler" : "licenseInfo"
 	    },
 	    {
 			"name" : "Check For Updates...",
 			"identifier" : "check for updates",
 			"shortcut" : "",
 			"script" : "main.js",
-			"handler" : "checkForUpdates",
-	    },
+			"handler" : "checkForUpdates"
+	    }
 	],
 
 	"menu": {
@@ -74,7 +74,7 @@
 			"refresh",
 			"-",
 			"pro version",
-			"check for updates",
+			"check for updates"
 		]
 	}
 }
